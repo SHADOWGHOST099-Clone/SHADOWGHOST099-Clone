@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=500&pause=100&color=1BAFBAFF&center=true&width=70&height=100&lines=THAfont=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=70&height=100&lines=S;H;A;D;O;W;G;H;O;S;T;0;9;9;SHADOWGHOST099" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=500&pause=5000&color=1BAFBAFF&center=true&width=70&height=100&lines=THAfont=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=70&height=100&lines=S;H;A;D;O;W;G;H;O;S;T;0;9;9;SHADOWGHOST099;" alt="Typing SVG" /></a>
   </p>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <p align="center">
